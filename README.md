@@ -3,6 +3,6 @@
 
 ڈویلپرز کے لئے کمیونٹی کے تیار کردہ مضامیں ،ذرائع اور روڈ میپس
 
-Roadmaps are now interactive, you can click the nodes to read more about the topics.
+اب روڈ میپ بھی انٹریکٹو ہیں ، آپ اس پر کلک کرکے اس مضمون کے بارے میں مزید پڑھ سکتے ہیں ،
 
-Here is the list of available roadmaps with more being actively worked upon.
+جن روڈ میپ پر بہت زیادہ تحریک کے ساتھ کام ہو رہا ہے انکی فہرست مندرجہ ذیل ہے، 
